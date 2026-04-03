@@ -4,15 +4,6 @@ Underperforming Hospital Detection
 Overview
 This project identifies hospitals that underperform relative to their peers by analyzing clinical and administrative datasets. It utilizes a machine learning pipeline to process data, engineer features, and flag facilities that fall below performance benchmarks after adjusting for patient risk factors.
 
-Features
-Risk Adjustment: Implements statistical methods to account for patient-level factors (age, comorbidities) to ensure fair hospital comparisons.
-
-Performance Metrics: Evaluates hospitals based on mortality rates, readmission rates, and patient safety indicators.
-
-Outlier Detection: Uses classification or clustering techniques to isolate facilities with statistically significant negative deviations from the mean.
-
-Data Visualization: Includes diagnostic plots to visualize performance distribution.
-
 Technical Stack
 Language: Python
 

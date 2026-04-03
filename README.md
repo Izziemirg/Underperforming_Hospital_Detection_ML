@@ -11,7 +11,7 @@ Performance Metrics: Evaluates hospitals based on mortality rates, readmission r
 
 Outlier Detection: Uses classification or clustering techniques to isolate facilities with statistically significant negative deviations from the mean.
 
-Data Visualization: Includes diagnostic plots to visualize performance distribution and identify outliers.
+Data Visualization: Includes diagnostic plots to visualize performance distribution.
 
 Technical Stack
 Language: Python

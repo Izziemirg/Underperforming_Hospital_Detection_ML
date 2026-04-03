@@ -16,7 +16,7 @@ Data Visualization: Includes diagnostic plots to visualize performance distribut
 Technical Stack
 Language: Python
 
-Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib/Seaborn
+Libraries: Keras, tensorflow, scikeras, Pandas, NumPy, Matplotlib/Seaborn
 
 Environment: Jupyter Notebook
 

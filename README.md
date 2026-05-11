@@ -1,7 +1,7 @@
 This repository contains a machine learning project focused on identifying underperforming hospitals based on patient outcomes and operational metrics. The analysis leverages statistical modeling to distinguish between expected performance and significant underperformance.
 
-## Underperforming Hospital Detection
-# Overview
+# Underperforming Hospital Detection
+## Overview
 
 This project identifies hospitals that underperform relative to their peers by analyzing clinical and administrative datasets. It utilizes a machine learning pipeline to process data, engineer features, and flag facilities that fall below performance benchmarks after adjusting for patient risk factors.
 

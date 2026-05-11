@@ -1,22 +1,24 @@
 This repository contains a machine learning project focused on identifying underperforming hospitals based on patient outcomes and operational metrics. The analysis leverages statistical modeling to distinguish between expected performance and significant underperformance.
 
-Underperforming Hospital Detection
-Overview
+## Underperforming Hospital Detection
+# Overview
+
 This project identifies hospitals that underperform relative to their peers by analyzing clinical and administrative datasets. It utilizes a machine learning pipeline to process data, engineer features, and flag facilities that fall below performance benchmarks after adjusting for patient risk factors.
 
-Technical Stack
+## Technical Stack
 Language: Python
 
 Libraries: Keras, tensorflow, scikeras, Pandas, NumPy, Matplotlib/Seaborn
 
 Environment: Jupyter Notebook
 
-Project Structure
-assignment1.ipynb: The primary notebook containing data cleaning, exploratory data analysis (EDA), model training, and evaluation.
+## Project Structure
+
+main.ipynb: The primary notebook containing data cleaning, exploratory data analysis (EDA), model training, and evaluation.
 
 data/: (If applicable) Directory for raw and processed datasets.
 
-Getting Started
+## Getting Started
 Clone the repository:
 
 Bash

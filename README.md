@@ -1,4 +1,4 @@
-This repository contains a machine learning project focused on identifying underperforming hospitals based on patient outcomes and operational metrics. The analysis leverages statistical modeling to distinguish between expected performance and significant underperformance.
+As part of assignment for my MSBA program at the University of Virginia, I trained a deep learning model to identify underperforming hospitals based on patient outcomes and operational metrics. The analysis leverages statistical modeling to distinguish between expected performance and significant underperformance.
 
 # Underperforming Hospital Detection
 ## Overview
